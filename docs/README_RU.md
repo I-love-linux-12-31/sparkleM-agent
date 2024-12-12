@@ -13,10 +13,11 @@
 
 ## Запуск
 ```bash
-python3 -m venv venv
 # Создание виртуального окружения
-source venv/bin/activate
+python3 -m venv venv
 # Активация окружения
+source venv/bin/activate
+# Устаноака зависимостей
 pip3 install -r requirements.txt
 # запуск
 python3 main.py
