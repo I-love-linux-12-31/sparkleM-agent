@@ -9,7 +9,7 @@
 ## Зависимости
 * `pycryptodome`
 * `requests`
-* `pycryptodome`
+* `confluent-kafka`
 
 ## Запуск
 ```bash
