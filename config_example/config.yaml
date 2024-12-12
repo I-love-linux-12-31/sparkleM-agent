@@ -1,0 +1,8 @@
+id: 0
+mq_server_address: 172.16.0.2
+mq_server_port: 9092
+send_data_interval: 300
+also_store_local: True
+required_plugins:
+  - "Temperature"
+  - "PU_Workload"
